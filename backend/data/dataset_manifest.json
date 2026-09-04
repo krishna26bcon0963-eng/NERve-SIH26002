@@ -1,0 +1,54 @@
+{
+  "dataset": "NERve SIH26002 NER training foundation",
+  "version": "1.0.0",
+  "generated_utc": "2026-08-31T12:25:35.039835+00:00",
+  "geography": [
+    "Arunachal Pradesh",
+    "Assam",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Sikkim",
+    "Tripura"
+  ],
+  "date_window_requested": [
+    "2016-01-01",
+    "2026-08-31"
+  ],
+  "join_keys": {
+    "weather_to_features": [
+      "location_id",
+      "date"
+    ],
+    "road_events_to_osm": "road_osm_id",
+    "spatial_join": "WGS84 latitude/longitude EPSG:4326"
+  },
+  "files": {
+    "earthquakes_2016_2026.csv": {
+      "rows": 965
+    },
+    "landslides_2016_2026.csv": {
+      "rows": 0
+    },
+    "locations.csv": {
+      "rows": 24
+    },
+    "model_features_daily.csv": {
+      "rows": 93504
+    },
+    "road_disruptions_verified.csv": {
+      "rows": 0
+    },
+    "sources.csv": {
+      "rows": 7
+    },
+    "traffic_observations.csv": {
+      "rows": 0
+    },
+    "weather_daily_2016_2026.csv": {
+      "rows": 93504
+    }
+  },
+  "critical_warning": "target_disruption is intentionally blank. Do not train a supervised disruption model until verified closure labels are collected or licensed."
+}

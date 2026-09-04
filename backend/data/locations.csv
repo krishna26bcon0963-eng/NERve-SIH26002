@@ -1,0 +1,25 @@
+location_id,state,location_name,latitude,longitude,location_type,coverage_note
+AR_ITANAGAR,Arunachal Pradesh,Itanagar,27.0844,93.6053,logistics_reference_point,Point sample; not a state-wide average
+AR_TAWANG,Arunachal Pradesh,Tawang,27.5861,91.8594,logistics_reference_point,Point sample; not a state-wide average
+AR_PASIGHAT,Arunachal Pradesh,Pasighat,28.0661,95.326,logistics_reference_point,Point sample; not a state-wide average
+AS_GUWAHATI,Assam,Guwahati,26.1445,91.7362,logistics_reference_point,Point sample; not a state-wide average
+AS_DIBRUGARH,Assam,Dibrugarh,27.4728,94.912,logistics_reference_point,Point sample; not a state-wide average
+AS_SILCHAR,Assam,Silchar,24.8333,92.7789,logistics_reference_point,Point sample; not a state-wide average
+MN_IMPHAL,Manipur,Imphal,24.817,93.9368,logistics_reference_point,Point sample; not a state-wide average
+MN_MOREH,Manipur,Moreh,24.2475,94.3022,logistics_reference_point,Point sample; not a state-wide average
+MN_UKHRUL,Manipur,Ukhrul,25.0953,94.3617,logistics_reference_point,Point sample; not a state-wide average
+ML_SHILLONG,Meghalaya,Shillong,25.5788,91.8933,logistics_reference_point,Point sample; not a state-wide average
+ML_TURA,Meghalaya,Tura,25.5142,90.202,logistics_reference_point,Point sample; not a state-wide average
+ML_CHERRAPUNJI,Meghalaya,Sohra,25.2702,91.732,logistics_reference_point,Point sample; not a state-wide average
+MZ_AIZAWL,Mizoram,Aizawl,23.7271,92.7176,logistics_reference_point,Point sample; not a state-wide average
+MZ_LUNGLEI,Mizoram,Lunglei,22.8925,92.7422,logistics_reference_point,Point sample; not a state-wide average
+MZ_CHAMPHAI,Mizoram,Champhai,23.4566,93.3282,logistics_reference_point,Point sample; not a state-wide average
+NL_KOHIMA,Nagaland,Kohima,25.6751,94.1086,logistics_reference_point,Point sample; not a state-wide average
+NL_DIMAPUR,Nagaland,Dimapur,25.9091,93.7266,logistics_reference_point,Point sample; not a state-wide average
+NL_MON,Nagaland,Mon,26.7358,95.0587,logistics_reference_point,Point sample; not a state-wide average
+SK_GANGTOK,Sikkim,Gangtok,27.3389,88.6065,logistics_reference_point,Point sample; not a state-wide average
+SK_MANGAN,Sikkim,Mangan,27.5097,88.5221,logistics_reference_point,Point sample; not a state-wide average
+SK_GYALSHING,Sikkim,Gyalshing,27.289,88.2576,logistics_reference_point,Point sample; not a state-wide average
+TR_AGARTALA,Tripura,Agartala,23.8315,91.2868,logistics_reference_point,Point sample; not a state-wide average
+TR_DHARMANAGAR,Tripura,Dharmanagar,24.3667,92.1667,logistics_reference_point,Point sample; not a state-wide average
+TR_SABROOM,Tripura,Sabroom,23.0,91.7319,logistics_reference_point,Point sample; not a state-wide average
